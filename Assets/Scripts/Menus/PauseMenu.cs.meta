@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1e00f7ce4c2cb7d4e84c6594e5c4c117
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - resumeButton: {fileID: 8740870990623399597, guid: cfc8c10753e4ea44ba33f0dd4b32de3c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
